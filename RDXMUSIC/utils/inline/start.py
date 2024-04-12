@@ -8,14 +8,14 @@ def start_panel(_):
     buttons = [
         [
             InlineKeyboardButton(
-                text="˹sᴜᴍᴍᴏɴ ᴍє˼", url=f"https://t.me/{app.username}?startgroup=true"
+                text="˹sᴜᴍᴍᴏɴ ᴍє˼", url=f"https://t.me/{app.@jaani132_bot}?startgroup=true"
             ),
-            InlineKeyboardButton(text="˹sᴜᴘᴘ๏ʀᴛ˼", url="https://t.me/+PtOLQT04ocMzOTJl"),
+            InlineKeyboardButton(text="˹sᴜᴘᴘ๏ʀᴛ˼", url="https://t.me/jaani1435"),
         ],
         [
             InlineKeyboardButton(
                 text="˹ᴜᴘᴅᴀᴛᴇs˼",
-                url="https://t.me/+m4oVCt2zFhYyMTdl"
+                url="https://t.me/jaani1435"
             ),
         ],
     ]
@@ -32,15 +32,15 @@ def private_panel(_):
         [
             InlineKeyboardButton(
                 text="˹sᴜᴘᴘ๏ʀᴛ˼",
-                url="https://t.me/+PtOLQT04ocMzOTJl"),
+                url="https://t.me/jaani1435"),
             InlineKeyboardButton(
                 text="˹sᴜᴘᴘ๏ʀᴛ˼", 
                 url="https://t.me/+RObRa7kXPIJmMjU1"),],[
             InlineKeyboardButton(text="˹sᴜᴍᴍᴏɴ ᴍє ʙᴀʙʏ˼", url=f"https://t.me/{app.username}?startgroup=true",),],
         [
-            InlineKeyboardButton(text="˹๏ᴡɴєʀ˼", user_id="1777270311"),
-            InlineKeyboardButton(text="˹ᴜᴘᴅᴀᴛєѕ˼", url="https://t.me/+m4oVCt2zFhYyMTdl"),
-        ],
+            InlineKeyboardButton(text="˹๏ᴡɴєʀ˼", user_id="5857465966"),
+            InlineKeyboardButton(text="˹ᴜᴘᴅᴀᴛєѕ˼", url="httpsFhYyMTdl"),
+     ,
     ]
     return buttons
 
@@ -61,8 +61,8 @@ def cmd_panel(_):
                 url="https://t.me/+RObRa7kXPIJmMjU1"),],[
             InlineKeyboardButton(text="˹sᴜᴍᴍᴏɴ ᴍє ʙᴀʙʏ˼", url=f"https://t.me/{app.username}?startgroup=true",),],
         [
-            InlineKeyboardButton(text="˹๏ᴡɴєʀ˼", user_id="1777270311"),
-            InlineKeyboardButton(text="˹ᴜᴘᴅᴀᴛєѕ˼", url="https://t.me/+m4oVCt2zFhYyMTdl"),
+            InlineKeyboardButton(text="˹๏ᴡɴєʀ˼", user_id="5857465966"),
+            InlineKeyboardButton(text="˹ᴜᴘᴅᴀᴛєѕ˼"," https://t.me/jaani1435"),
         ],
     ]
     return buttons
